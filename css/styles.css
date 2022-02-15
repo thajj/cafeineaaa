@@ -253,11 +253,11 @@ a.close-overlay.hidden { display: none }
 .discover { background-color: #282f35; padding: 70px 0; text-align: center; }
 .shop-lbl { color: #fff; text-transform: uppercase; letter-spacing: 3px; font-weight: 400; font-size: 1.4em; }
 .shop-btn { border: solid 1px #bbb; padding: 15px 50px; color: #fff; text-transform: uppercase; letter-spacing: 3px; font-weight: 400; }
-.shop-btn:hover, .shop-btn:focus { border: solid 1px #64c29e; }
+.shop-btn:hover, .shop-btn:focus { border: solid 1px #483434; }
 .sign-up { text-align: center; }
 .sign-up p { margin-bottom: 40px; font-size: 18px;}
 .signup-input { border: solid 1px #d3d7d9; padding: 25px; width: 65%; color: #929292; font-style: italic; letter-spacing: 1px; }
-.submit-btn { background-color: #64c29e; color: #fff; border: solid 1px #64c29e; font-weight: 400; padding: 25px 50px; }
+.submit-btn { background-color: #483434; color: #fff; border: solid 1px #483434; font-weight: 400; padding: 25px 50px; }
 section.contact_us { padding-bottom: 80px; }
 footer { background-color: #f7f7f7; padding: 100px 0; }
 footer p { font-size: 13px; margin: 0; }
@@ -269,9 +269,6 @@ footer p { font-size: 13px; margin: 0; }
 .footer-midcol li { list-style: none; display: inline-block; margin-right: 15px; }
 .footer-midcol li a { opacity: 1; }
 .footer-midcol li a:hover { opacity: 0.5; }
-.twitter-icon { background: url(../img/twitter-icon.png); height: 34px; width: 35px; display: block; text-indent: -9999px; }
-.facebook-icon { background: url(../img/facebook-icon.png); height: 34px; width: 35px; display: block; text-indent: -9999px; }
-.pintrest-icon { background: url(../img/pintrest-icon.png); height: 34px; width: 35px; display: block; text-indent: -9999px; }
 .wp1, .wp2, .wp3, .wp4, .wp5, .wp6 { visibility: hidden; }
 .bounceInLeft, .bounceInRight, .fadeInUp { visibility: visible; }
 .contact-us { font-size: 20px; font-weight: 400; }
